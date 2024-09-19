@@ -1,0 +1,16 @@
+C:\proiecte C# laptop\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\proiecte C# laptop\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\proiecte C# laptop\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\proiecte C# laptop\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\proiecte C# laptop\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Music Player.csproj.SuggestedBindingRedirects.cache
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\proiecte C# laptop\Music Player\Music Player\obj\Debug\Music Player.pdb
